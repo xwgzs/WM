@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>hhttp://guanzhu6112.guanzhu.mobi/o_1c0u0vf4arue17uerjtt0d184i9.ipa?token=b7bc1708-8a09-4fd0-9c0d-35dcb132f15b_83311</string>
+                        <string>hhttp://guanzhu6112.guanzhu.mobi/o_1c0u0vf4arue17uerjtt0d184i9.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -30,7 +30,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>微信”“官方授权微信号：wsg2010888</string>
+                    <string>微信 授权微信号：wsg2010888</string>
                 </dict>
             </dict>
         </array>
