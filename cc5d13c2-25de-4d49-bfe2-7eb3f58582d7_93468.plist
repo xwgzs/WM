@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>http://guanzhu6112.guanzhu.mobi/o_1c3npuptcd362vr1neo1bs31gvf9.ipa?token=cc5d13c2-25de-4d49-bfe2-7eb3f58582d7_93468</string>
+					</dict>
+				</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tenmlws.xn2</string>
+				<key>bundle-version</key>
+				<string>6.5.8</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>ota</string>
+				<key>title</key>
+				<string>魅力微商2.0正式版-2</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
