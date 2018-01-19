@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comwssqcwylsd03_651832_ded2fd55-d7b0-5dd4-9904-f92b2dfb6004.ipa</string>
+                        <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comtencentxinsd3_65832_c0dda9fc-7748-54be-ac53-175423b542c2.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -18,19 +18,19 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://s.beta.gtimg.com/rdmimg/exp/image/_d28a1625-e57c-4d9d-be98-5c625d9509cd.png</string>
+                        <string>https://s.beta.gtimg.com/rdmimg/exp/image/_699d2f7e-9ddd-44d1-ae8c-319b6131eca7.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.wssqcw.ylsd03</string>
+                    <string>com.tencent.xin.sd3</string>
                     <key>bundle-version</key>
-                    <string>6.5.18.32</string>
+                    <string>6.5.8.32</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>WM-引领-3</string>
+                    <string>引领03-WM团队，感谢大家信赖</string>
                 </dict>
             </dict>
         </array>
