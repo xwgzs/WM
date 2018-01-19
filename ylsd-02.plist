@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comwssqcwylsd02_651832_df6f3bf8-9089-5870-97fc-565bbee5e686.ipa</string>
+                        <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comtencentxinsd2_65832_1d77204c-e2d9-5373-8b0c-7cb05364eb5a.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -18,19 +18,19 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://s.beta.gtimg.com/rdmimg/exp/image/_bc1cd9bb-0ad0-47b2-abc7-638b42b05644.png</string>
+                        <string>https://s.beta.gtimg.com/rdmimg/exp/image/_ade8b05b-77ec-4c76-8d4a-fecc141913f7.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.wssqcw.ylsd02</string>
+                    <string>com.tencent.xin.sd2</string>
                     <key>bundle-version</key>
-                    <string>6.5.18.32</string>
+                    <string>6.5.8.32</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>WM-引领-2</string>
+                    <string>引领-02</string>
                 </dict>
             </dict>
         </array>
