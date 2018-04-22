@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2018/04/21/comtenmlwsxn1_66032_7fe0b470-5dbe-5c0b-87a4-04a9d58a2c03.ipa</string>
+                        <string>https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2018/04/22/comtenmlwsxn1_66032_dc7b8663-a1d1-5b30-9195-d97af6457c5b.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -18,7 +18,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://s.beta.gtimg.com/rdmimg/exp/image2/2018/04/21/_fb8f5ea0-90f9-4cdf-a0ab-3126c06f252e.png</string>
+                        <string>https://s.beta.gtimg.com/rdmimg/exp/image2/2018/04/22/_b2ba9e70-b804-4df7-ab28-9f995d0b2d3e.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -30,7 +30,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>魅力微商 5.0-1</string>
+                    <string>魅力微商-01</string>
                 </dict>
             </dict>
         </array>
