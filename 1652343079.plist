@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>https://outexp-beta.cdn.qq.com/outbeta/2022/05/12/comtencentwx001RXF287T4Z6_8.0.15.32_78038ec5-1977-5df2-9fad-fc2b015cde9f.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>http://beta.gtimg.com/rdmimg/exp/page-img/default-icon.png</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.tencent.wx.001.RXF287T4Z6</string>
+          <key>bundle-version</key>
+          <string>1.0.1</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>subtitle</key>
+          <string>微信</string>
+          <key>title</key>
+          <string>微信</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
